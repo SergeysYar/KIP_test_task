@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KIP_test_task.props" />
+</Project>
