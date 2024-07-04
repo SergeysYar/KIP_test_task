@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KIP_test_task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dd8816eb9125484baa0f72e7944def4d23f2f17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b413c932758d080bfd7446609bef813d6f3c10e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KIP_test_task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KIP_test_task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
